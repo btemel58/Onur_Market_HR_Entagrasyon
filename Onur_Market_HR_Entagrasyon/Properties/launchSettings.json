@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Onur_Market_HR_Entagrasyon": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
